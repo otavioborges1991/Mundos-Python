@@ -1,0 +1,6 @@
+Nome: Otavio - Idade: 34
+Nome: Larissa - Idade: 36
+Nome: Jose - Idade: 70
+Nome: Ana - Idade: 65
+Nome: Antonio - Idade: 43
+Nome: Mario - Idade: 40

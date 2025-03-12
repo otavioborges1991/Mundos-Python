@@ -1,0 +1,30 @@
+# estilo
+limpar='\033[m'
+nenhum='\033[0m'
+negrito='\033[1m'
+italico='\033[3m'
+sublinhado='\033[4m'
+piscando='\033[5m'
+invertido='\033[7m'
+escondido='\033[8m'
+cruzado='\033[9m'
+
+# cores
+branco='\033[30m'
+vermelho='\033[31m'
+verde='\033[32m'
+amarelo='\033[33m'
+azul='\033[34m'
+magenta='\033[35m'
+ciano='\033[36m'
+cinza='\033[37m'
+
+# fundos
+fbranco='\033[40m'
+fvermelho='\033[41m'
+fverde='\033[42m'
+famarelo='\033[43m'
+fazul='\033[44m'
+fmagenta='\033[45m'
+fciano='\033[46m'
+fcinza='\033[47m'
