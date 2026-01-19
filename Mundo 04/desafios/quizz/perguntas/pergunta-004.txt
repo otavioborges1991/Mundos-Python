@@ -1,3 +1,3 @@
 pergunta: A linguagem Simula foi um superconjunto de que outra linguagem?
-ecolhas: Algol,C,SmallTalk,Python
+escolhas: Algol,C,SmallTalk,Python
 resposta: Algol

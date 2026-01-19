@@ -1,3 +1,3 @@
 pergunta: Qual das caracteristicas a seguir identifica as primeiras linguagens lineares?
-ecolhas: Maior modularidade,Desvios com GOTO,Estruturas de controle,Instruções de baixo nivel
+escolhas: Maior modularidade,Desvios com GOTO,Estruturas de controle,Instruções de baixo nivel
 resposta: Desvios com GOTO

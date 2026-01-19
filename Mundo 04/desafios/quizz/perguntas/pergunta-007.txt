@@ -1,3 +1,3 @@
 pergunta: Se precisar adicionar uma nova funcionalidade ao sistema, consigo fazer isso com facilidade. Meu sistema é?
-ecolhas: Natual,Extensível,Reutilizável,Oportuno
+escolhas: Natual,Extensível,Reutilizável,Oportuno
 resposta: Extensível

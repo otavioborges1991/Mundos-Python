@@ -1,3 +1,3 @@
 pergunta: Na teoria de OO, o termo técnico usado para o ato de fazer um objeto existir, a partir de um modelo se chama?
-ecolhas: Instanciar,Classificar,Objetificar,Forjar
+escolhas: Instanciar,Classificar,Objetificar,Forjar
 resposta: Instanciar

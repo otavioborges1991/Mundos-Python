@@ -1,3 +1,3 @@
 pergunta: Posso alterar como uma funcionalidade trabalha e tudo continua funcionando como antes. Meu sistema é?
-ecolhas: Oportuno,Reutilizável,Confiável,Natual
+escolhas: Oportuno,Reutilizável,Confiável,Natual
 resposta: Confiável

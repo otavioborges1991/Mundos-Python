@@ -1,3 +1,3 @@
 pergunta: Criei um sistema para a Escola, ao criar o outro sistema para a Academia, parte do trabalho já estará feito, pois tenho aluno nos dois. Meu Sistema é?
-ecolhas: Confiável,Natural,Manuntenível,Reutilizável
+escolhas: Confiável,Natural,Manuntenível,Reutilizável
 resposta: Reutilizável

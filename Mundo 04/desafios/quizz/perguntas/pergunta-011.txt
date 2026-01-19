@@ -1,3 +1,3 @@
 pergunta: Qual dos objetos abaixo seria o único abstrato da lista?
-ecolhas: Sensor,Robo,Notificação,Livro
+escolhas: Sensor,Robo,Notificação,Livro
 resposta: Notificação

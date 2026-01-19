@@ -1,3 +1,3 @@
 pergunta: Ao conjunto de todos os valores de atributos de um objeto em um determinado momento, damos o nome de?
-ecolhas: identidade,instância,método,estado
+escolhas: identidade,instância,método,estado
 resposta: estado
