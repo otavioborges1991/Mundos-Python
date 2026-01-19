@@ -1,0 +1,3 @@
+pergunta: Na sigla OOAD, o que signifcam as 2 ultimas letras?
+ecolhas: Algol/Dashboard,Algorithms/Digital,Analytics/Default,Analysis/Design
+resposta: Analysis/Design

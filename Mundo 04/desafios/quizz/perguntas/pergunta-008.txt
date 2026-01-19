@@ -1,0 +1,3 @@
+pergunta: Posso desenvolver várias funções que dependem uma da outra ao mesmo tempo se o planejamento for seguido. Meu sistema é?
+ecolhas: Oportuno,Reutilizável,Confiável,Manutenível
+resposta: Oportuno

@@ -1,0 +1,3 @@
+pergunta: Quem foi o criador da SmallTAlk, uma das primeiras linguagens OO?
+ecolhas: Edsger Dijkstra,Guido Van Rossum,Alan Kay,Kristen Nyagaard
+resposta: 

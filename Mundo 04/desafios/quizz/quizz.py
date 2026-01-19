@@ -1,0 +1,22 @@
+import os
+
+def construir_lista():
+    perguntas = []
+    pasta_perguntas = 'perguntas'
+
+    for arquivo in sorted(os.listdir(pasta_perguntas)):
+        if arquivo.endswith('.txt'):
+            caminho = os.path.join(pasta_perguntas, arquivo)
+            with open(caminho, 'r', encoding='utf-8') as f:
+                linhas = f.readlines()
+                pergunta_dict = {}
+                for linha in linhas:
+                    if ':' in linha:
+                        chave, valor = linha.split(':', 1)
+                        chave = chave.strip()
+                        valor = valor.strip()
+                        if chave == 'ecolhas':
+                            pergunta_dict[chave] = [item.strip() for item in valor.split(',')]
+                        else:
+                            pergunta_dict[chave] = valor
+                perguntas.append(pergunta_dict)
